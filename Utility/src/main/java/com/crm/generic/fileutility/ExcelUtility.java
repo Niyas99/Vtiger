@@ -9,7 +9,7 @@ import org.apache.poi.ss.usermodel.WorkbookFactory;
 
 ////push
 //Love You
-//unne pudikum
+
 public class ExcelUtility {
 
 	public String getDataFromExcel(String sheetName,int rowNum,int cellNum) throws Throwable {

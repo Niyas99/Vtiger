@@ -5,6 +5,7 @@ import java.io.FileOutputStream;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 
+//pull
 public class ExcelUtility {
 
 	public String getDataFromExcel(String sheetName,int rowNum,int cellNum) throws Throwable {
@@ -44,3 +45,4 @@ public class ExcelUtility {
 		
 	}
 }
+
